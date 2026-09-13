@@ -1,4 +1,3 @@
-package src;
 import java.math.BigInteger;
 public class KaratsubaMultiplication {
     public static void main(String[] args) {

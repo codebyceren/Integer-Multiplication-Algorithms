@@ -17,7 +17,7 @@ public class KargerMinCut {
 
         Map<Integer, List<Integer>> graph = readGraph(filePath);
 
-        int numberOfRuns = 1000;
+        int numberOfRuns = 10000;
         int minimumCut = Integer.MAX_VALUE;
 
         for (int i = 0; i < numberOfRuns; i++) {

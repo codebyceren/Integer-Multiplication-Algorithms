@@ -246,7 +246,4 @@ The repository will continue to be used for algorithm review, experimentation, a
 
 **Ceren Günhan**
 
-Computer Engineering Student
-Antalya Bilim University
-
-GitHub: [@codebyceren](https://github.com/codebyceren)
+Built by codebyceren.

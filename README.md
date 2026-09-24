@@ -246,4 +246,4 @@ The repository will continue to be used for algorithm review, experimentation, a
 
 **Ceren Günhan**
 
-Built by codebyceren.
+Built by [codebyceren](https://github.com/codebyceren).
